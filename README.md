@@ -1,4 +1,4 @@
-👋 Hi, I’m Takaya Murakami from Japan. 🗾  
+👋 Hi, I’m Takaya. 🗾  
 Currently a master's student, studying the autonomous vehicle control engineer in [![BME]()](https://transportation.bme.hu/msc-programmes/applicants/autonomous-vehicle-control-engineering-master-msc/).  
 Previously worked as a software engineer with about 5 years experience in the automotive industry.
 
