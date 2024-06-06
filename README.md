@@ -1,8 +1,8 @@
 👋 Hi, I’m Takaya. 🗾  
-Currently a master's student, studying the autonomous vehicle control engineer in [![BME]()](https://transportation.bme.hu/msc-programmes/applicants/autonomous-vehicle-control-engineering-master-msc/).  
-Previously worked as a software engineer with about 5 years experience in the automotive industry.
+A master’s student who takes the Autonomous vehicle control engineer course in [![BME]()](https://transportation.bme.hu/msc-programmes/applicants/autonomous-vehicle-control-engineering-master-msc/), Budapest, Hungary, with 5 years of embedded software development experience with MATLAB/Simukink, MATLAB-Scripts and C language in the automotive industry.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue)](www.linkedin.com/in/takaya-murakami-062a29232)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue)](https://www.linkedin.com/in/takaya-murakami-062a29232)
 
 ## project for my thesis
 - Reinforcement learning based automated parking systems: [![RL_APS]()](https://github.com/taka-rl/RL_APS)
