@@ -3,7 +3,7 @@ A master’s student who takes the Autonomous vehicle control engineer course in
 Since I am learning Python by myself now, I would appreciate any comments and feedback!^^  
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue)](https://www.linkedin.com/in/takaya-murakami-062a29232)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue)](https://www.linkedin.com/in/takaya-murakami)
 
 ## project for my thesis
 - Reinforcement learning based automated parking systems: [![RL_APS]()](https://github.com/taka-rl/RL_APS)
