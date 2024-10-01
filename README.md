@@ -12,6 +12,7 @@
 
 ## other projects
 - Python_practice: [![python_practice]()](https://github.com/taka-rl/python_practice)
+- flask_webapp: [![flask_webapp]()](https://github.com/taka-rl/flask_webapp)
 - Tic-tac-toe with Q-learning: [![tic-tac-toe_q_learning]()](https://github.com/taka-rl/tic-tac-toe_q_learning)
 
 
