@@ -17,7 +17,7 @@
 - handwriting recognition: [![handwriting recognition]()](https://github.com/taka-rl/handwriting-digit-character-recognition)
 
 ## projects related to C++
-- C++ practice: [![C++ practice]()](https://github.com/taka-rl/c-plus-plus_practice))
+- C++ practice: [![C++ practice]()](https://github.com/taka-rl/c-plus-plus_practice)
 
 <!---
 taka-rl/taka-rl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
