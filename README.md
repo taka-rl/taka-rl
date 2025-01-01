@@ -1,8 +1,8 @@
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=taka-rl)  
 
 👋 Hi, I’m Takaya. 🗾  
-- A recent graduated master’s student who took the Autonomous vehicle control engineer course in [![BME]()](https://transportation.bme.hu/msc-programmes/applicants/autonomous-vehicle-control-engineering-master-msc/), Budapest, Hungary,
-- 5 years of embedded software development experience with MATLAB/Simukink, MATLAB-Scripts and C language and experience in development with Matlab Script as a trainee in the automotive industry.  
+- Software Engineer with an MSc in Autonomous Vehicle Control Engineer and 4+ years of experience in Model-Based Design(MBD) and Embedded software development in the automotive industry.
+- Experience in MATLAB/Simulink, MATLAB-Script and C language through work. 
 - Currently learning Python and C++ by myself, I would appreciate any comments and feedback!^^
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue)](https://www.linkedin.com/in/takaya-murakami)
