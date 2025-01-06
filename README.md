@@ -11,9 +11,7 @@
 - Reinforcement learning based automated parking systems: [![RL_APS]()](https://github.com/taka-rl/RL_APS)
 
 ## projects related to Python
-- Python_practice: [![python_practice]()](https://github.com/taka-rl/python_practice)
 - Tic-tac-toe with Q-learning: [![tic-tac-toe_q_learning]()](https://github.com/taka-rl/tic-tac-toe_q_learning)
-- flask_webapp: [![flask_webapp]()](https://github.com/taka-rl/flask_webapp)
 - handwriting recognition: [![handwriting recognition]()](https://github.com/taka-rl/handwriting-digit-character-recognition)
 
 <!---
