@@ -13,6 +13,10 @@
 ## projects related to Python
 - Tic-tac-toe with Q-learning: [![tic-tac-toe_q_learning]()](https://github.com/taka-rl/tic-tac-toe_q_learning)
 - handwriting recognition: [![handwriting recognition]()](https://github.com/taka-rl/handwriting-digit-character-recognition)
+- Flask_webapp: https://github.com/taka-rl/flask_webapp
+
+## projects related to C++
+- Student Grade System: https://github.com/taka-rl/student_grade_system
 
 <!---
 taka-rl/taka-rl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
