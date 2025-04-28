@@ -1,7 +1,7 @@
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=taka-rl)  
 
 👋 Hi, I’m Takaya. 🗾  
-- Software Engineer with an MSc in Autonomous Vehicle Control Engineer and 4+ years of experience in Model-Based Design(MBD) and Embedded software development in the automotive industry.
+- Software Engineer with an MSc in Autonomous Vehicle Control Engineer and 4+ years of experience in Model-Based Development(MBD) and Embedded software development in the automotive industry.
 - Experience in MATLAB/Simulink, MATLAB-Script and C language through work. 
 - Currently learning Python and C++ by myself, I would appreciate any comments and feedback!^^
 
