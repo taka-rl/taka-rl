@@ -7,6 +7,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue)](https://www.linkedin.com/in/takaya-murakami)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taka-rl&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taka-rl&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+
+
 ## project for my thesis
 - Reinforcement learning based automated parking systems: [![RL_APS]()](https://github.com/taka-rl/RL_APS)
 
@@ -17,6 +22,7 @@
 
 ## projects related to C++
 - Student Grade System: https://github.com/taka-rl/student_grade_system
+
 
 <!---
 taka-rl/taka-rl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
