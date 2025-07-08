@@ -5,11 +5,8 @@
 - Experience in MATLAB/Simulink, MATLAB-Script and C language through work. 
 - Currently learning Python and C++ by myself, I would appreciate any comments and feedback!^^
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue)](https://www.linkedin.com/in/takaya-murakami)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taka-rl&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taka-rl&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+<a href="https://github.com/taka-rl/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/taka--rl-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/takaya-murakami" target="_blank"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
 
 
 ## project for my thesis
