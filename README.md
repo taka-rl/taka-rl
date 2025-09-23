@@ -7,8 +7,9 @@
 
 <a href="https://github.com/taka-rl/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/taka--rl-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/takaya-murakami" target="_blank"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taka-rl&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taka-rl&layout=compact)
 
 ## project for my thesis
 - Reinforcement learning based automated parking systems: [![RL_APS]()](https://github.com/taka-rl/RL_APS)
